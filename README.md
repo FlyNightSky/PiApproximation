@@ -28,7 +28,7 @@ PiApproximationCPP is a C++ program that calculates an approximation of the math
 ## Sample Output
 NOTE: This is 10 approximations of PI
 
-Initial value of pi: 0
+<small>Initial value of pi: 0
 Term: 4
 -------------------
 Current pi: 4
@@ -96,7 +96,7 @@ Current num: 23
 Current othernum: 23
 -------------------
 
-#The Result is: 3.232316
+## The Result is: 3.232316
 
 ## Note
 
