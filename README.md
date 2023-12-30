@@ -14,11 +14,6 @@ PiApproximationCPP is a C++ program that calculates an approximation of the math
 ## How to Run
 
 1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/PiApproximationCPP.git
-## How to Run
-
-1. Clone the repository to your local machine.
 
     ```bash
     git clone https://github.com/yourusername/PiApproximationCPP.git
