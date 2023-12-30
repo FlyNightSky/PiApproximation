@@ -26,8 +26,77 @@ PiApproximationCPP is a C++ program that calculates an approximation of the math
    View the output in the console and check the generated file `PiApproximation.txt` for the final result.
 
 ## Sample Output
+NOTE: This is 10 approximations of PI
 
-<!-- Add any relevant images or descriptions here -->
+Initial value of pi: 0
+Term: 4
+-------------------
+Current pi: 4
+Current num: 3
+Current othernum: 3
+-------------------
+Term: 1.33333
+-------------------
+Current pi: 2.66667
+Current num: 5
+Current othernum: 7
+-------------------
+Term: 0.8
+-------------------
+Current pi: 3.46667
+Current num: 7
+Current othernum: 7
+-------------------
+Term: 0.571429
+-------------------
+Current pi: 2.89524
+Current num: 9
+Current othernum: 11
+-------------------
+Term: 0.444444
+-------------------
+Current pi: 3.33968
+Current num: 11
+Current othernum: 11
+-------------------
+Term: 0.363636
+-------------------
+Current pi: 2.97605
+Current num: 13
+Current othernum: 15
+-------------------
+Term: 0.307692
+-------------------
+Current pi: 3.28374
+Current num: 15
+Current othernum: 15
+-------------------
+Term: 0.266667
+-------------------
+Current pi: 3.01707
+Current num: 17
+Current othernum: 19
+-------------------
+Term: 0.235294
+-------------------
+Current pi: 3.25237
+Current num: 19
+Current othernum: 19
+-------------------
+Term: 0.210526
+-------------------
+Current pi: 3.04184
+Current num: 21
+Current othernum: 23
+-------------------
+Term: 0.190476
+-------------------
+Current pi: 3.23232 <- Final Result
+Current num: 23
+Current othernum: 23
+-------------------
+
+#The Result is: 3.232316
 
 ## Note
 
